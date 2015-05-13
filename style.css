@@ -1,0 +1,58 @@
+body {
+	color: black;
+	font-size: 1em;
+	font-family: "Open San" , "Helvetica Neue" , sans-serif;
+}
+
+body section ul{
+	text-align: center;
+	width:50%;
+	margin: 0 auto;
+}
+section {
+	text-align: center;	
+}
+
+#top-banner {
+	background-image: url('photo.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 6em 0;
+}
+
+#top-banner {
+	text-align: center;
+	font-size: 4em;
+}
+
+section {
+	text-align: center;
+}
+
+#navigation{
+	height: 165px;
+	font-size: 125%;
+
+}
+
+#navigation {
+	height: 25px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navigation a {
+	display: block;
+}
+
+#navigation li{
+	height: 25px;
+	width: 140px;
+	padding: 8px 0;
+	float: left;
+	background-color: yellow;
+	border-radius: 10px;
+	color: yellow;
+	text-align: center;
+}
